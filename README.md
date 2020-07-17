@@ -9,7 +9,7 @@
 <p><a href="https://www.facebook.com/profile.php?id=100009726781584" target="_blank"><img src="facebook.png" height="32px"></a>
 <a href="https://www.instagram.com/_nalini.ranjan/?hl=en" target="_blank"><img src="instagram.png" height="32px"></a>
 <a href="https://www.linkedin.com/in/nalini-jatwar-23b651147" target="_blank"><img src="linkedin.png" height="32px"></a></p>
-<p><a href="#"><img src="gitcover.png" height="300px"></a></p>
+<p><img src="gitcover.png" height="64px"></p>
 <!--
 **nalini21/nalini21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

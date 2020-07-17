@@ -1,3 +1,4 @@
+<img src="https://github.com/nalini21/nalini21/blob/master/gitcover.png">
 <h3>👋HI THERE,</h3>
 <h4>I'm Nalini Ranjan Jatwar</h4>
 <h4>4TH YEAR UG STUDENT AT IIT KHARAGPUR, INDIA</h4>
@@ -9,7 +10,6 @@
 <p><a href="https://www.facebook.com/profile.php?id=100009726781584" target="_blank"><img src="facebook.png" height="32px"></a>
 <a href="https://www.instagram.com/_nalini.ranjan/?hl=en" target="_blank"><img src="instagram.png" height="32px"></a>
 <a href="https://www.linkedin.com/in/nalini-jatwar-23b651147" target="_blank"><img src="linkedin.png" height="32px"></a></p>
-<p><img src="gitcover1.png"></p>
 <!--
 **nalini21/nalini21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-<img src="gitcover.png" width="800px">
+<a href="#"><img src="gitcover.png" height="300px"></a>
 <h3>👋HI THERE,</h3>
 <h4>I'm Nalini Ranjan Jatwar</h4>
 <h4>4TH YEAR UG STUDENT AT IIT KHARAGPUR, INDIA</h4>

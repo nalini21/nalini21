@@ -1,6 +1,7 @@
+<img src="gitcover.png">
 <h3>👋HI THERE,</h3>
-<h3>I AM NALINI RANJAN</h3>
-<h4>4TH YEAR UG STUDENT AT IIT KHARAGPUR (INDIA)</h4>
+<h4>I'm Nalini Ranjan Jatwar</h4>
+<h4>4TH YEAR UG STUDENT AT IIT KHARAGPUR, INDIA</h4>
 <p>I'm a Flutter Developer,Competitive Programmer and an Open Source Enthusiast who is highly passionate about building fast,Creative applications. I also like to design wireframes and prototypes in adobe xd</p>
 <p>🔭 I’m currently working on a Quiz Web Application</p>
 <p>🌱 I’m currently learning node.js,typescript</p>

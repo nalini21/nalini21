@@ -6,9 +6,9 @@
 <p>🌱 I’m currently learning node.js,typescript</p>
 <p>🤝 I’m looking to collaborate on flutter,firebase projects or Web applications using html,css and javascript</p>
 <p>📫 reach me by-</p>
-<p><a href="https://www.facebook.com/profile.php?id=100009726781584" target="_blank"><img src="facebook.png" align="left"></a>
-<a href="https://www.instagram.com/_nalini.ranjan/?hl=en" target="_blank"><img src="instagram.png" align="left"></a>
-<a href="https://www.linkedin.com/in/nalini-jatwar-23b651147" target="_blank"><img src="linkedin.png" align="left"></a></p>
+<p><a href="https://www.facebook.com/profile.php?id=100009726781584" target="_blank"><img src="facebook.png" height="32px"></a>
+<a href="https://www.instagram.com/_nalini.ranjan/?hl=en" target="_blank"><img src="instagram.png" height="32px"></a>
+<a href="https://www.linkedin.com/in/nalini-jatwar-23b651147" target="_blank"><img src="linkedin.png" height="32px"></a></p>
 <!--
 **nalini21/nalini21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,11 +1,10 @@
 <img src="https://github.com/nalini21/nalini21/blob/master/gitcover.png">
 <h3>👋HI THERE,</h3>
-<h4>I'm Nalini Ranjan Jatwar</h4>
-<h4>4TH YEAR UG STUDENT AT IIT KHARAGPUR, INDIA</h4>
-<p><h5>Skills: Python, C/C++, javascript, dart</h5></p>
-<p><h5>Frameworks: Flutter,Firebase, Materialize</h5></p>
-<p><h5>Databases: Firebase Firestore, MongoDB</h5></p>
-<p><h5>Tools: Android Studio, Postman, Adobe XD, VS Code, Matlab</h5></p>
+<h3>I'M NALINI RANJAN,4TH YEAR UG STUDENT AT IIT KHARAGPUR, INDIA</h3>
+<h4>Skills: Python, C/C++, javascript, dart</h4>
+<h4>Frameworks: Flutter,Firebase, Materialize</h4>
+<h4>Databases: Firebase Firestore, MongoDB</h4>
+<h4>Tools: Android Studio, Postman, Adobe XD, VS Code, Matlab</h4>
 <p>Constantly adding more depth and number to the list above</p>
 </br>
 <p>🔭 I’m currently working on a Quiz Web Application</p>

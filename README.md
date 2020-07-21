@@ -2,7 +2,12 @@
 <h3>👋HI THERE,</h3>
 <h4>I'm Nalini Ranjan Jatwar</h4>
 <h4>4TH YEAR UG STUDENT AT IIT KHARAGPUR, INDIA</h4>
-<p>I'm a Flutter Developer,Competitive Programmer and an Opensource Enthusiast who is highly passionate about building fast,Creative applications. I also like to design wireframes and prototypes in adobe xd</p>
+<p><h5>Skills: Python, C/C++, javascript, dart</h5></p>
+<p><h5>Frameworks: Flutter,Firebase, Materialize</h5></p>
+<p><h5>Databases: Firebase Firestore, MongoDB</h5></p>
+<p><h5>Tools: Android Studio, Postman, Adobe XD, VS Code, Matlab</h5></p>
+<p>Constantly adding more depth and number to the list above</p>
+</br>
 <p>🔭 I’m currently working on a Quiz Web Application</p>
 <p>🌱 I’m currently learning node.js,typescript</p>
 <p>🤝 I’m looking to collaborate on flutter,firebase projects or Web applications using html,css and javascript</p>

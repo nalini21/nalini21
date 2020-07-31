@@ -1,10 +1,10 @@
 <img src="https://github.com/nalini21/nalini21/blob/master/gitcover.png">
 <h3>HI THERE,</h3>
 <h3>I'M NALINI RANJAN,4TH YEAR UG STUDENT AT IIT KHARAGPUR, INDIA</h3>
-<h4>Skills:</h4> <p>Data Structures and Algorithms, Python, C/C++, HTML, CSS, javascript, dart</p>
-<h4>Frameworks:</h4> <p>Flutter,Firebase, Node.js,  Materialize</p>
-<h4>Databases:</h4> <p>Firebase Firestore, MongoDB</p>
-<h4>Tools:</h4> <p>Android Studio, Postman, Adobe XD, VS Code, Matlab</p></br>
+<h4>Skills:</h4> <p>Data Structures and Algorithms, Object Oriented Programming, Python, C/C++, HTML, CSS, javascript, typescript, dart</p>
+<h4>Frameworks:</h4> <p>Flutter,Firebase, Node.js, Angular, Materialize</p>
+<h4>Databases:</h4> <p>Firebase Firestore</p>
+<h4>Tools:</h4> <p>Android Studio, Adobe XD, VS Code, MATLAB</p></br>
 <h4>Constantly adding more depth and numbers to the list above</h4>
 </br>
 

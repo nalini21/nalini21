@@ -3,20 +3,22 @@
 <h3>I'M NALINI RANJAN,4TH YEAR UG STUDENT AT IIT KHARAGPUR, INDIA</h3>
 <table>
   <tr>
-    <td><h4>Skills</h4></td>
+    <td><h4>Skills, Computer Languages</h4></td>
   </tr>
   <tr>
-    <td><p>Data Structures and Algorithms, Object Oriented Programming, Python, C/C++, HTML, CSS, javascript, typescript, dart</p></td>
+    <td><p>Full stack web development, Android app development, Working with APIs, Data Structures and Algorithms, Object Oriented Programming, Python, C/C++, HTML, CSS, javascript, typescript, dart</p></td>
   </tr>
 </table>
 <table>
   <tr>
     <td><h4>Frameworks</h4></td>
     <td><h4>Databases</h4></td>
+    <td><h4>Tools</h4></td>
   </tr>
   <tr>
     <td><p>Flutter, Firebase, Node.js, express.js, Angular, Materialize, Bootstrap</p></td>
     <td><p>Firebase-Firestore, MongoDB</p></td>
+    <td><p>PyQt5, jQuery, ejs, Postman</p></td>
   </tr>
 </table>
 

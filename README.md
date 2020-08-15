@@ -13,12 +13,10 @@
   <tr>
     <td><h4>Frameworks</h4></td>
     <td><h4>Databases</h4></td>
-    <td><h4>Tools</h4></td>
   </tr>
   <tr>
     <td><p>Flutter, Firebase, Node.js, express.js, Angular, Materialize, Bootstrap</p></td>
     <td><p>Firebase-Firestore, MongoDB</p></td>
-    <td><p>Android Studio, Adobe XD, VS Code, MATLAB</p></td>
   </tr>
 </table>
 

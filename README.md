@@ -26,7 +26,7 @@
 </br>
 
 <p><a href="https://www.facebook.com/profile.php?id=100009726781584" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="32px"></a>
-<a href="https://www.instagram.com/_nalini.ranjan/?hl=en" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="32px"></a>
+<a href="https://www.instagram.com/n_ranjan21/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="32px"></a>
 <a href="https://www.linkedin.com/in/nalini-jatwar-23b651147" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px"></a>
 <a href="https://dev.to/nalini21" target="_blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height="32px"></a>
 </p>

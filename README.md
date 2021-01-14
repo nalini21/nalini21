@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td><p>Flutter, Firebase, Node.js, express.js, Angular, Materialize, Bootstrap</p></td>
-    <td><p>Firebase-Firestore, MongoDB</p></td>
+    <td><p>Firebase-Firestore, MongoDB, SQL</p></td>
     <td><p>PyQt5, jQuery, ejs, Postman</p></td>
   </tr>
 </table>

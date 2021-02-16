@@ -6,7 +6,7 @@
     <td><h4>Skills, Computer Languages</h4></td>
   </tr>
   <tr>
-    <td><p>Full stack web development, Android app development, Working with APIs, Data Structures and Algorithms, Object Oriented Programming, Python, C/C++, HTML, CSS, javascript, typescript, dart</p></td>
+    <td><p>Full stack web development, Android app development, Working with APIs, Data Structures and Algorithms, Object Oriented Programming, Python, C/C++, Python, HTML, CSS, javascript, typescript, dart</p></td>
   </tr>
 </table>
 <table>

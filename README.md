@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/nalini21/nalini21/blob/master/gitcover.png"> -->
 <h3>HI THERE,</h3>
-<h3>I'M NALINI RANJAN,4TH YEAR UG STUDENT AT IIT KHARAGPUR, INDIA</h3>
+<h3>I'M NALINI RANJAN,5TH YEAR UG STUDENT AT IIT KHARAGPUR, INDIA</h3>
 <table>
   <tr>
     <td><h4>Skills, Computer Languages</h4></td>
